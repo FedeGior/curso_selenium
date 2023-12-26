@@ -9,6 +9,7 @@
    		<artifactId>aether-api</artifactId>
    		<version>1.7</version>
   	</dependency>
+  	<!-- este es el plugin de selenium -->
  	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 	<dependency>
     	<groupId>org.seleniumhq.selenium</groupId>
